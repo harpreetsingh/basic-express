@@ -45,9 +45,11 @@ This sample doesn't use the recommended path (using Oauth2). To enable, gmail to
 Remember to turn this back off so that your account is not susceptible to being hacked.
 
 You can see the code for setting up the transport options in [app.js](https://github.com/harpreetsingh/basic-express/blob/main/app.js)
-
+# The Web App
+![Home page](https://github.com/harpreetsingh/basic-express/blob/main/pics/home-page.png?raw=true)
+![Contact us](https://github.com/harpreetsingh/basic-express/blob/main/pics/contact-us.png?raw=true)
 # References
-* Lesson #2 in [[Course - Learn Nodejs by building 10 apps]]
+* Lesson #2 in [Course - Learn Nodejs by building 10 apps](https://www.udemy.com/course/learn-nodejs-by-building-10-projects/)
 * [Views](https://github.com/harpreetsingh/basic-express/tree/main/views)
 * [App.js router file](https://github.com/harpreetsingh/basic-express/blob/main/app.js)
 * [Html2Jade converter](https://html2jade.org/)
